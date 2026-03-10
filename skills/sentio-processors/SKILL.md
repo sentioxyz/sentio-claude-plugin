@@ -1,5 +1,5 @@
 ---
-name: managing-sentio-processors
+name: sentio-processors
 description: Use when initializing Sentio projects, writing blockchain processor code, adding contracts/ABIs, testing processors, or deploying to the Sentio platform. Triggers on sentio CLI usage, processor development, multi-chain indexing, blockchain data analytics with Sentio SDK, DeFi protocols, points systems, or store entities.
 ---
 
