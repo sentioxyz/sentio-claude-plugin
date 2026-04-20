@@ -8,7 +8,7 @@ A [Claude Code](https://docs.anthropic.com/en/docs/claude-code) plugin for build
 
 ```bash
 # Add this repo as a marketplace source
-/plugin marketplace add sentioxyz/sentio-skills
+/plugin marketplace add sentioxyz/sentio-ai-kit
 
 # Install the plugin
 /plugin install sentio-processors
@@ -52,7 +52,7 @@ Once installed, Claude Code automatically activates the skill when you work on S
 ## Plugin Structure
 
 ```
-sentio-skills/
+sentio-ai-kit/
 ├── .claude-plugin/
 │   └── plugin.json
 ├── skills/

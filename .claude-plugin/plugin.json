@@ -6,7 +6,7 @@
     "name": "Poytr1"
   },
   "homepage": "https://clawhub.ai/sentio-xyz/sentio-processors",
-  "repository": "https://github.com/sentioxyz/sentio-skills",
+  "repository": "https://github.com/sentioxyz/sentio-ai-kit",
   "license": "MIT",
   "keywords": ["sentio", "blockchain", "indexing", "defi", "ethereum", "aptos", "sui", "solana"]
 }
